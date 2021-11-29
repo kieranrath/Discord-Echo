@@ -1,7 +1,8 @@
 **WARNING**
 Self-Bots are against Discords Terms of Service - Use At Your Own Risk!
+https://i.imgur.com/brdTWGN.png
 
-DISCORD ECHO 
+# DISCORD ECHO 
 - A simple discord.js self-bot that can echo the messages from a specified Discord channel to your own Server, returning the messages to you and others in a clean format. 
 
 Use 

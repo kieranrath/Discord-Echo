@@ -1,21 +1,23 @@
 **WARNING**
 Self-Bots are against Discords Terms of Service - Use At Your Own Risk!
-https://i.imgur.com/brdTWGN.png
+
 
 # DISCORD ECHO 
 - A simple discord.js self-bot that can echo the messages from a specified Discord channel to your own Server, returning the messages to you and others in a clean format. 
+- 
+![disc-echo](https://user-images.githubusercontent.com/95006280/143924221-2e1ed55c-27bb-41da-aec9-ff6e02c37ba0.png)
 
-Use 
+## Use 
 - To relay/echo the messages from a specific/private discord channel to another desired channel. 
 
-REQUIREMENTS:
+## REQUIREMENTS:
 - A Discord Account token which has developer tools enabled and has access to the desired channel you wish to echo 
 - A Discord Account which has server permissions to create webhooks 
 - Discord.js @V11 **IMPORANT** Self-bots are no longer supported with more recent versions of discord. Discord.js@v11 is required for this program to work
 - Node.js installed - https://nodejs.org/en/
 
 
-**INSTRUCTIONS / HOW TO USE**
+## **INSTRUCTIONS / HOW TO USE**
 
 1. Clone Or Download this repository (if you are prompted to install dependencies use "npm install discord.js@11")
 
@@ -23,7 +25,7 @@ REQUIREMENTS:
 
 3. Either use the provided launchecho.bat or run "node echo.js" to start the bot
 
-**FILLING OUT THE JSON FIELDS**
+## **FILLING OUT THE JSON FIELDS**
 
 token - The discord token of the account which has access to the desired channel to echo. See the FAQ for how to   
        find your discord account token.
@@ -36,7 +38,7 @@ webhookURL - The Url of the webhook where you want the echoed messages to show u
            - To create a webhook, right click a discord channel which you have permissions to edit, select "Edit Channel" option. Once in the settings click the "Integrations" tab. From there you can click on the "create webhook" button and copy the URL into the webHookURL field
 
 
-FAQ:
+## FAQ:
 
 HOW TO FIND YOUR DISCORD TOKEN:
 https://www.youtube.com/watch?v=3qzpmTIQ-Gs

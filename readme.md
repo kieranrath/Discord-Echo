@@ -9,6 +9,8 @@ Self-Bots are against Discords Terms of Service - Use At Your Own Risk!
 
 ## Use 
 - To relay/echo the messages from a specific/private discord channel to another desired channel. 
+- To Archive a specific channels
+
 
 ## REQUIREMENTS:
 - A Discord Account token which has developer tools enabled and has access to the desired channel you wish to echo 
@@ -24,6 +26,7 @@ Self-Bots are against Discords Terms of Service - Use At Your Own Risk!
 2. Open the config.json and fill the required fields (see below and the config.json.example for help)
 
 3. Either use the provided launchecho.bat or run "node echo.js" to start the bot
+
 
 ## **FILLING OUT THE JSON FIELDS**
 
@@ -47,5 +50,6 @@ HOW TO ENABLE DEVELOPER TOOLS
 https://www.youtube.com/watch?v=_2gpDnAdkbo
 
 Q: I'm getting a 'node' is not recognized as an internal or an external command error when trying to start the script
+
 A: Ensure node.js is installed and the node.js environment variable exists
 

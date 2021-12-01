@@ -9,7 +9,7 @@ Self-Bots are against Discords Terms of Service - Use At Your Own Risk!
 
 ## Use 
 - To relay/echo the messages from a specific/private discord channel to another desired channel. 
-- To Archive a specific channels
+- To Archive or save messages from a specific channel
 
 
 ## REQUIREMENTS:
